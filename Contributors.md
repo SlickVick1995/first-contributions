@@ -160,8 +160,9 @@
 - Bryant Sirois
 - [Nicholas Ottens] (https://github.com/NicholasOttens)
 - Divyansh Kogta
-- [George Papadas](https://github.com/gpapadas)
+- [George Papadas](https://github.com/gpapadas)s
 - Jay Kim
+- [Victor Le](https://github.com/SlickVick1995)
 - [Hamdi Nahhas](https://github.com/hamdi977)
 - [ldyim](https://github.com/ldyim)
 - [Dedos](https://github.com/MValdebenito)
